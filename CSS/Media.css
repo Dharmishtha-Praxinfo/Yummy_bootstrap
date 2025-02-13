@@ -1,0 +1,13 @@
+@media (max-width: 992px){
+    .testimonial .testimonial-container .carousel .carousel-inner .carousel-item .testimonial-img {
+        height: 100%;
+        width: 50%;
+        padding-bottom: 24px;
+    }
+
+    .testimonial .testimonial-container .carousel .carousel-inner .carousel-item {
+        padding: 0px 22px;
+        text-align: center;
+    }
+}
+
