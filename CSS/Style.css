@@ -70,9 +70,10 @@ body {
 }
 
 .hero .hero-left p {
-    color: #212529;
+    color: color-mix(in srgb, #212529, transparent 30%);;
     font-size: 20px;
-    font-size: var(--default-font);
+    font-family: var(--default-font);
+    font-weight: 400;
 }
 
 .hero .hero-left .hero-btns a {
