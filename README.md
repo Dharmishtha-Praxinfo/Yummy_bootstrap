@@ -8,7 +8,7 @@ Yummy is an elegant and responsive **eCommerce template** designed using **Boots
 
 ✅ **Fully Responsive** – Adapts to all screen sizes  
 ✅ **Bootstrap Framework** – Built with Bootstrap for easy customization  
-✅ **Modern & Clean Design** – Sleek UI with smooth animations 
+✅ **Modern & Clean Design** – Sleek UI with smooth animations  
 ✅ **Dynamic Image Sliders** – Uses Swiper.js for seamless carousels  
 ✅ **Interactive Navigation Bar** – Sticky header for better user experience  
 ✅ **Hover Effects & Animations** – Engaging animations for better interaction   
